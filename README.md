@@ -1,7 +1,7 @@
 ![](whitespace.jpg)
 ![](whitespace.jpg)
 
-#Introduction au Bitcoin
+# Introduction au Bitcoin
 ![](whitespace.jpg)
 ![opengraph.png](opengraph.png)
 ![](whitespace.jpg)
@@ -14,7 +14,7 @@
 ![](whitespace.jpg)
 
 
-#Introduction aux Crypto-Monnaies
+# Introduction aux Crypto-Monnaies
 
 
 ![](ethereum.png)
@@ -63,7 +63,7 @@ Les Banques centrales, les banques privées, les gens...
 Largement légiféré depuis longtemps, petite citation:
 
 > En raison de l'importance de la monnaie, les États cherchent très tôt à s'assurer le maximum de pouvoir monétaire. Ils définissent la devise officielle en usage sur leur territoire et font en sorte que cette devise soit symbole et marque de leur puissance. Ils s'arrogent progressivement un peu partout le monopole de l'émission des billets et des pièces et exercent un contrôle sur la création monétaire des banques via la législation et la politique monétaire des banques centrales.
-
+> (Encore Wikipedia, désolé)
 
 
 
@@ -119,7 +119,6 @@ Personne et tout le monde à la fois
 
 ## Vidéos et liens:
 
-![](whitespace.jpg)
 [http://dessinemoileco.com](http://dessinemoileco.com)
 -> Vidéos 3m: la bourse / les bitoins / la création monétaire
 
