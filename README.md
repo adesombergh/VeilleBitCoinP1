@@ -1,7 +1,7 @@
 ![](whitespace.jpg)
-![](whitespace.jpg)
 
 # Introduction au Bitcoin
+![](whitespace.jpg)
 ![](whitespace.jpg)
 ![opengraph.png](opengraph.png)
 ![](whitespace.jpg)
@@ -22,6 +22,7 @@
 ![](dogecoin-300.png)
 ![](opengraph.png)
 
+(Et il y en a plein...)
 
 ![](whitespace.jpg)
 
