@@ -104,7 +104,7 @@ Personne et tout le monde à la fois
 
 #### + Fluctuation extreme
 
-#### + F*** le sy****
+#### + Désobéissance Civile
 
 ![](whitespace.jpg)
 
